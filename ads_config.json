@@ -1,34 +1,34 @@
 {
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/4411468910",
       "ca-app-pub-3940256099942544/4411468910"
     ]
   },
   "native": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/3986624511",
       "ca-app-pub-3940256099942544/3986624511"
     ]
   },
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/6300978111",
       "ca-app-pub-3940256099942544/2934735716"
     ]
   },
   "reward": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5224354917",
       "ca-app-pub-3940256099942544/1712485313"
     ]
   },
   "app_open": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5575463023"
     ]

@@ -6,7 +6,7 @@
       "ad_unit_id": "ca-app-pub-4025933333679529/1111111111"
     },
     "onboarding_2": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/2222222222"
     },
     "onboarding_3": {

@@ -1,4 +1,5 @@
-{  "interstitial": {
+{
+  "interstitial": {
     "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/1851251605",
@@ -33,8 +34,7 @@
     ]
   },
   "onboarding_1": {
-    "enabled": false,
-    
+    "enabled": false
   },
   "onboarding_2": {
     "enabled": false

@@ -2,15 +2,15 @@
   "interstitial": {
     "enabled": true,
     "onboarding_1": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
-    },
-    "onboarding_2": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     },
-    "onboarding_3": {
+    "onboarding_2": {
       "enabled": false,
+      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
+    },
+    "onboarding_3": {
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     }
   },

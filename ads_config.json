@@ -1,18 +1,9 @@
-{
   "interstitial": {
     "enabled": true,
-    "onboarding_1": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
-    },
-    "onboarding_2": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
-    },
-    "onboarding_3": {
-      "enabled": false,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
-    }
+    "ad_unit_ids": [
+      "ca-app-pub-4025933333679529/1851251605",
+      "ca-app-pub-4025933333679529/1851251605"
+    ]
   },
   "native": {
     "enabled": true,
@@ -40,5 +31,15 @@
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/9749374182"
     ]
+  },
+  "onboarding_1": {
+    "enabled": false,
+    
+  },
+  "onboarding_2": {
+    "enabled": false
+  },
+  "onboarding_3": {
+    "enabled": false
   }
 }

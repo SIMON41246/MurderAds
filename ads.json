@@ -40,16 +40,6 @@
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/9749374182"
     ]
-  },
-  "review": {
-    "onboarding_1": {
-      "enabled": false
-    },
-    "onboarding_2": {
-      "enabled": true
-    },
-    "onboarding_3": {
-      "enabled": false
-    }
   }
+ 
 }

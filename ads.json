@@ -42,6 +42,6 @@
     ]
   },
   "review": {
-    "enabled": true
+    "enabled": false
   }
 }

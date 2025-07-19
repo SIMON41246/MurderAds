@@ -3,15 +3,15 @@
     "enabled": true,
     "onboarding_1": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/8464082795"
+      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     },
     "onboarding_2": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/2525360407"
+      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     },
     "onboarding_3": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/8403716504"
+      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     }
   },
   "native": {

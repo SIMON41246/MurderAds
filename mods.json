@@ -6,7 +6,7 @@
   },
   "reward": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/6978759866"],
+    "admob": ["ca-app-pub-3940256099942544/1712485313"],
     "pangle": ["980088192"]
   },
   "native": {

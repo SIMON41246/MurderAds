@@ -16,7 +16,7 @@
   },
   "banner": {
     "enabled": false,
-    "admob": [],
+    "admob": ["ca-app-pub-4025933333679529/6639145052"],
     "pangle": ["980088196"]
   },
   "app_open": {

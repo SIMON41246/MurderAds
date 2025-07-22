@@ -1,31 +1,31 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/1851251605"],
     "pangle": ["980088188"]
   },
   "reward": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-3940256099942544/1712485313"],
     "pangle": ["980088192"]
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/6599680247"],
     "pangle": ["980088216"]
   },
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "admob": [],
     "pangle": ["980088196"]
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/9749374182"],
     "pangle": ["890008769", "890000078"]
   },
   "rewarded_interstitial": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-3940256099942544/5354046379"]
   }
 }

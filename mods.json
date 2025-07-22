@@ -1,7 +1,7 @@
 {
   "interstitial": {
     "enabled": true,
-    "admob": ["ca-app-pub-4025933333679529/1851251605"],
+    "admob": ["ca-app-pub-3940256099942544/4411468910"],
     "pangle": ["980088188"]
   },
   "reward": {

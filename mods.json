@@ -1,7 +1,7 @@
 {
   "interstitial": {
     "enabled": true,
-    "admob": ["ca-app-pub-4025933333679529/1851251605"],
+    "admob": ["ca-app-pub-3940256099942544/4411468910"],
     "pangle": ["980088188"]
   },
   "reward": {
@@ -11,21 +11,21 @@
   },
   "native": {
     "enabled": true,
-    "admob": ["ca-app-pub-4025933333679529/6599680247"],
+    "admob": ["ca-app-pub-3940256099942544/3986624511"],
     "pangle": ["980088216"]
   },
   "banner": {
     "enabled": true,
-    "admob": ["ca-app-pub-4025933333679529/6639145052"],
+    "admob": ["ca-app-pub-3940256099942544/2934735716"],
     "pangle": ["980088196"]
   },
   "app_open": {
     "enabled": true,
-    "admob": ["ca-app-pub-4025933333679529/9749374182"],
+    "admob": ["ca-app-pub-3940256099942544/5575463023"],
     "pangle": ["890008769", "890000078"]
   },
   "rewarded_interstitial": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/5354046379"]
+    "admob": ["ca-app-pub-3940256099942544/6978759866"]
   }
 }

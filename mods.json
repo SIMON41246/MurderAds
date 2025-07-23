@@ -1,31 +1,31 @@
 {
   "interstitial": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/4411468910"],
+    "admob": ["ca-app-pub-3940256099942544/44"],
     "pangle": ["980088188"]
   },
   "reward": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/1712485313"],
+    "admob": ["ca-app-pub-3940256099942544/1712485"],
     "pangle": ["980088192"]
   },
   "native": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/3986624511"],
+    "admob": ["ca-app-pub-3940256099942544/3986624"],
     "pangle": ["980088216"]
   },
   "banner": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/2934735716"],
+    "admob": ["ca-app-pub-3940256099942544/293473"],
     "pangle": ["980088196"]
   },
   "app_open": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/5575463023"],
+    "admob": ["ca-app-pub-3940256099942544/5573"],
     "pangle": ["890008769", "890000078"]
   },
   "rewarded_interstitial": {
     "enabled": true,
-    "admob": ["ca-app-pub-3940256099942544/6978759866"]
+    "admob": ["ca-app-pub-3940256099942544/69787"]
   }
 }

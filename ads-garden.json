@@ -1,6 +1,6 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/2769753049"
     ]

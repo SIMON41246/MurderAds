@@ -1,0 +1,26 @@
+{
+  "interstitial": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  },
+  "native": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  },
+  "banner": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  },
+  "reward": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  },
+  "app_open": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  },
+  "rewarded_interstitial": {
+    "enabled": true,
+    "admob": ["ca-app-pub-xxx/xxx"]
+  }
+}

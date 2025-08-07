@@ -23,5 +23,5 @@
     "enabled": true,
     "admob": ["ca-app-pub-3940256099942544/6978759866"]
   },
-  "paywall": true
+  "paywall": false
 }

@@ -1,0 +1,27 @@
+{
+  "interstitial": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/4411468910"]
+  },
+  "native": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/3986624511"]
+  },
+  "banner": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/2934735716"]
+  },
+  "reward": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/1712485313"]
+  },
+  "app_open": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/5575463023"]
+  },
+  "rewarded_interstitial": {
+    "enabled": true,
+    "admob": ["ca-app-pub-3940256099942544/6978759866"]
+  },
+  "paywall": true
+}

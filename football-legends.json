@@ -1,6 +1,6 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/7070257417"]
   },
   "native": {

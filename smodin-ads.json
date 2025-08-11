@@ -25,6 +25,7 @@
   },
   "review": true,
   "ai": "deepseek",
+  
   "info": {
     "title": "Ad Configuration",
     "description": "This configuration contains settings for all ad formats and their corresponding AdMob unit IDs."

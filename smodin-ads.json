@@ -24,7 +24,7 @@
     "admob": ["ca-app-pub-3940256099942544/6978759866"]
   },
   "review": true,
-  "ai": "gpt",
+  "ai": "gemini",
   "info": {
     "title": "Ad Configuration",
     "description": "This configuration contains settings for all ad formats and their corresponding AdMob unit IDs."

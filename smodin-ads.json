@@ -23,7 +23,7 @@
     "enabled": false,
     "admob": ["ca-app-pub-3940256099942544/6978759866"]
   },
-  "review": false,
+  "review": true,
   "ai": "gemini",
   "info": {
     "title": "Ad Configuration",

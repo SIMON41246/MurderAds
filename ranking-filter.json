@@ -1,48 +1,60 @@
 {
   "ads": {
-    "active_network": "admob",
+    "active_network": "facebook",
     "networks": {
       "admob": {
         "banner_id": [
+          "ca-app-pub-3940256099942544/6300978111",
           "ca-app-pub-3940256099942544/6300978111"
         ],
         "interstitial_id": [
+          "ca-app-pub-3940256099942544/1033173712",
           "ca-app-pub-3940256099942544/1033173712"
         ],
         "rewarded_id": [
+          "ca-app-pub-3940256099942544/5224354917",
           "ca-app-pub-3940256099942544/5224354917"
         ]
       },
       "facebook": {
         "banner_id": [
+          "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
           "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047"
         ],
         "interstitial_id": [
+          "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
           "IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617"
         ],
         "rewarded_id": [
+          "VID_HD_16_9_46S_APP_INSTALL#2312433698835503_2650502525028617",
           "VID_HD_16_9_46S_APP_INSTALL#2312433698835503_2650502525028617"
         ]
       },
       "applovin": {
         "banner_id": [
+          "YOUR_BANNER_AD_UNIT",
           "YOUR_BANNER_AD_UNIT"
         ],
         "interstitial_id": [
+          "YOUR_INTERSTITIAL_AD_UNIT",
           "YOUR_INTERSTITIAL_AD_UNIT"
         ],
         "rewarded_id": [
+          "YOUR_REWARDED_AD_UNIT",
           "YOUR_REWARDED_AD_UNIT"
         ]
       },
       "pangle": {
         "banner_id": [
+          "945901814",
           "945901814"
         ],
         "interstitial_id": [
+          "945901816",
           "945901816"
         ],
         "rewarded_id": [
+          "945901818",
           "945901818"
         ]
       }

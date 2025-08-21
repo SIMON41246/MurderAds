@@ -1,14 +1,14 @@
 {
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
-      "ca-app-pub-3940256099942544/4411468910"
+      "ca-app-pub-4025933333679529/3796123166"
     ]
   },
   "native": {
     "enabled": false,
     "ad_unit_ids": [
-      "ca-app-pub-3940256099942544/3986624511"
+      "ca-app-pub-4025933333679529/5142678638"
     ]
   },
   "banner": {
@@ -20,13 +20,13 @@
   "reward": {
     "enabled": false,
     "ad_unit_ids": [
-      "ca-app-pub-3940256099942544/1712485313"
+      "ca-app-pub-4025933333679529/3634155848"
     ]
   },
   "app_open": {
     "enabled": false,
     "ad_unit_ids": [
-      "ca-app-pub-3940256099942544/5575463023"
+      "ca-app-pub-4025933333679529/3829596968"
     ]
   }
 }

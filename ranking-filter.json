@@ -6,7 +6,7 @@
     ]
   },
   "native": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/5142678638"
     ]

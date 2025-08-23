@@ -1,12 +1,12 @@
 {
   "interstitial": {
-    "enabled": ture,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/4411468910"
     ]
   },
   "native": {
-    "enabled": ture,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/3986624511"
     ]

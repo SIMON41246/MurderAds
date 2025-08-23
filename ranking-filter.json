@@ -28,5 +28,9 @@
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/3829596968"
     ]
+  },
+  "rewarded_interstitial": {
+    "enabled": false,
+    "admob": ["ca-app-pub-3940256099942544/69787598"]
   }
 }

@@ -1,30 +1,30 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/4411468910"
     ]
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/3986624511"
     ]
   },
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/5395916382"
     ]
   },
   "reward": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/1712485313"
     ]
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5575463023"
     ]

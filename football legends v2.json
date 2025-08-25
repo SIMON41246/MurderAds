@@ -1,10 +1,10 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/7070257417"]
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/6559105613"]
   },
   "banner": {
@@ -16,7 +16,7 @@
     "admob": ["ca-app-pub-4025933333679529/5937941478"]
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "admob": ["ca-app-pub-4025933333679529/6404845334"]
   },
   "rewarded_interstitial": {

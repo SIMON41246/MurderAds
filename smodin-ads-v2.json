@@ -1,0 +1,32 @@
+{
+  "interstitial": {
+    "enabled": true,
+    "admob": ["ca-app-pub-4025933333679529/7087898274"]
+  },
+  "native": {
+    "enabled": true,
+    "admob": ["ca-app-pub-4025933333679529/5774816606"]
+  },
+  "banner": {
+    "enabled": false,
+    "admob": ["ca-app-pub-3940256099942544/2934735716"]
+  },
+  "reward": {
+    "enabled": true,
+    "admob": ["ca-app-pub-4025933333679529/8294852946"]
+  },
+  "app_open": {
+    "enabled": true,
+    "admob": ["ca-app-pub-4025933333679529/7370420567"]
+  },
+  "rewarded_interstitial": {
+    "enabled": false,
+    "admob": ["ca-app-pub-3940256099942544/6978759866"]
+  },
+  "review": true,
+  "ai": "gemini",
+  "info": {
+    "title": "Ad Configuration",
+    "description": "This configuration contains settings for all ad formats and their corresponding AdMob unit IDs."
+  }
+}

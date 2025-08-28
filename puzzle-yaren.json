@@ -29,5 +29,10 @@
       "ca-app-pub-3940256099942544/5575463023"
     ]
   },
-  "link":"https://s2.gombis.com/4/yarn-fever-unravel-puzzle/"
+  "video": {
+    "enabled": true,
+    "video_link": "https://example.com/video.mp4",
+    "call_action": "Watch Now"
+  },
+  "link": "https://s2.gombis.com/4/yarn-fever-unravel-puzzle/"
 }

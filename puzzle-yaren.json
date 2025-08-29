@@ -1,4 +1,14 @@
 {
+  "minecraft_ad": {
+    "app": "Minecraft",
+    "tagline": "Create & Explore Your World!",
+    "rating": "5 stars",
+    "button": {
+      "text": "Install Now () button link",
+      "action": "https://: App Store Link "
+    },
+    "image": "icon link"
+  },
   "interstitial": {
     "enabled": true,
     "ad_unit_ids": [

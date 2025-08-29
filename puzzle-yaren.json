@@ -7,7 +7,7 @@
       "text": "Install Now () button link",
       "action": "https://: App Store Link "
     },
-    "image": "icon link"
+    "image": "https://res.cloudinary.com/ddzo0arai/image/upload/v1756505476/icon_8_ewhv83.png"
   },
   "interstitial": {
     "enabled": true,

@@ -40,7 +40,7 @@
     ]
   },
   "video": {
-    "enabled": true,
+    "enabled": false,
     "video_link": "https://res.cloudinary.com/ddzo0arai/video/upload/v1756514412/video_qzszrz.mp4",
     "call_action": "https://apps.apple.com/in/app/murder-king-slayer/id6747846884"
   },

@@ -1,0 +1,32 @@
+
+{
+  "interstitial": {
+    "enabled": false,
+    "admob": ["ca-app-pub-4025933333679529/5620638470"],
+    "pangle": ["98008"]
+  },
+  "reward": {
+    "enabled": false,
+    "admob": ["ca-app-pub-4025933333679529/6822039505"],
+    "pangle": ["980088"]
+  },
+  "native": {
+    "enabled": false,
+    "admob": ["ca-app-pub-4025933333679529/1904970342"],
+    "pangle": ["980088"]
+  },
+  "banner": {
+    "enabled": false,
+    "admob": ["ca-app-pub-3940256099942544/2934735716"],
+    "pangle": ["980088"]
+  },
+  "app_open": {
+    "enabled": false,
+    "admob": ["ca-app-pub-4025933333679529/5429066786"],
+    "pangle": ["890008", "890000"]
+  },
+  "rewarded_interstitial": {
+    "enabled": false,
+    "admob": ["ca-app-pub-4025933333679529/1673369194"]
+  }
+}

@@ -3,22 +3,22 @@
     "enabled": true,
     "onboarding_1": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     },
     "onboarding_2": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     },
     "onboarding_3": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     }
   },
   "native": {
     "enabled": true,
     "ad_unit_ids": [
-      "ca-app-pub-4025933333679529/6599680247",
-      "ca-app-pub-4025933333679529/6786332756"
+      "",
+      "ca-app-pub-3940256099942544/3986624511"
     ]
   },
   "banner": {
@@ -38,7 +38,7 @@
   "app_open": {
     "enabled": true,
     "ad_unit_ids": [
-      "ca-app-pub-4025933333679529/9749374182"
+      "ca-app-pub-3940256099942544/5575463023"
     ]
   },
   "review": {

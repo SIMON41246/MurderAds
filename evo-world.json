@@ -1,50 +1,50 @@
 {
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "onboarding_1": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     },
     "onboarding_2": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     },
     "onboarding_3": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     }
   },
   "native": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/3986624511",
       "ca-app-pub-3940256099942544/3986624511"
     ]
   },
   "banner": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/6639145052",
       "ca-app-pub-4025933333679529/6639145052"
     ]
   },
   "reward": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5224354917",
       "ca-app-pub-3940256099942544/1712485313"
     ]
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5575463023"
     ]
   },
   "review": {
-    "enabled": true
+    "enabled": false
   },
   "game": {
-    "link": "https://murder-king.exmanage.online/"
+    "link": "https://evoworld.io/"
   }
 }

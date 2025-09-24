@@ -2,11 +2,11 @@
   "interstitial": {
     "enabled": true,
     "onboarding_1": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     },
     "onboarding_2": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/1851251605"
     },
     "onboarding_3": {
@@ -15,7 +15,7 @@
     }
   },
   "native": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/6599680247",
       "ca-app-pub-4025933333679529/6786332756"
@@ -29,20 +29,20 @@
     ]
   },
   "reward": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-3940256099942544/5224354917",
       "ca-app-pub-3940256099942544/1712485313"
     ]
   },
   "app_open": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_ids": [
       "ca-app-pub-4025933333679529/9749374182"
     ]
   },
   "review": {
-    "enabled": false
+    "enabled": true
   },
   "game": {
     "link": "https://murder-king.exmanage.online/"

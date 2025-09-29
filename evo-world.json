@@ -46,5 +46,8 @@
   },
   "game": {
     "link": "https://evoworldio.com/embed/evoworld.html"
+  },
+  "shop": {
+    "enabled": false
   }
 }

@@ -1,4 +1,4 @@
 {
-  "discount": false,
-  "dialog": true
+  "discount": true,
+  "dialog": false
 }

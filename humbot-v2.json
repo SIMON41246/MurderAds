@@ -1,5 +1,5 @@
 {
-  "discount": true,
-  "dialog": false,
+  "discount": false,
+  "dialog": true,
   "paywall": false
 }

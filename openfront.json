@@ -1,0 +1,54 @@
+
+{
+  "interstitial": {
+    "enabled": false,
+    "onboarding_1": {
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "onboarding_2": {
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "onboarding_3": {
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
+    }
+  },
+  "native": {
+    "enabled": false,
+    "ad_unit_ids": [
+      "ca-app-pub-3940256099942544/3986624511",
+      "ca-app-pub-3940256099942544/3986624511"
+    ]
+  },
+  "banner": {
+    "enabled": false,
+    "ad_unit_ids": [
+      "ca-app-pub-4025933333679529/6639145052",
+      "ca-app-pub-4025933333679529/6639145052"
+    ]
+  },
+  "reward": {
+    "enabled": false,
+    "ad_unit_ids": [
+      "ca-app-pub-3940256099942544/5224354917",
+      "ca-app-pub-3940256099942544/1712485313"
+    ]
+  },
+  "app_open": {
+    "enabled": false,
+    "ad_unit_ids": [
+      "ca-app-pub-3940256099942544/5575463023"
+    ]
+  },
+  "review": {
+    "enabled": false
+  },
+  "game": {
+    "link": "https://evoworldio.com/embed/evoworld.html"
+  },
+  "shop": {
+    "enabled": false
+  }
+}

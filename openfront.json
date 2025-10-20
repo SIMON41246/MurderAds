@@ -1,13 +1,13 @@
 
 {
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "onboarding_1": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-4025933333679529/3776272718"
     },
     "onboarding_2": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/4411468910"
     },
     "onboarding_3": {
